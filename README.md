@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Dashboard by Product Category Using Excel
+# 🛒 Sales Analysis Dashboard by Product Category Using Excel
 
 An interactive **Excel sales dashboard** project designed to analyze sales data based on product categories. Users can select a product category to view monthly trends and product-level performance, gaining actionable insights into sales trends.
 
