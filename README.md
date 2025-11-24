@@ -13,16 +13,6 @@ An interactive **Excel sales dashboard** project designed to analyze sales data 
 
 ---
 
-## 🧰 Prerequisites
-
-To work effectively on this project, users should have knowledge of:
-
-- Creating charts and graphs in Excel  
-- Analyzing data using Excel functions and pivot tables  
-- Formatting data and dashboards to improve readability and presentation
-
----
-
 ## 🏢 Industry Relevance
 
 - **Creating charts and graphs in Excel:** Simplifies complex data for easy understanding.  
